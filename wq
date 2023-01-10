@@ -1,0 +1,10 @@
+[90m= [39m[34;4mApp\Models\Post[39;24m {#4638
+    [34mid[39m: [35m1[39m,
+    [34mtitle[39m: "[32mMy Post <script>alert("Hello")</script>[39m",
+    [34mexcerpt[39m: "[32mLorem ipsum dolor sit amet, consectetur adipiscing elit.[39m",
+    [34mbody[39m: "[32m<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit dictum velit id suscipit. Phasellus dictum porta orci, eget elementum tellus. Mauris sodales maximus enim, non gravida lorem elementum id. Cras lacinia purus at tellus scelerisque, et fringilla justo elementum. Aenean pharetra, nibh in lobortis eleifend, magna magna imperdiet nisi, quis ornare sem ligula in diam. Cras luctus justo non diam pharetra fermentum. Vestibulum et fermentum justo, auctor cursus lacus. Donec ac augue ligula. Suspendisse venenatis sem eget ipsum rutrum, vel varius quam posuere. Vestibulum facilisis sem at eleifend auctor. Praesent eget elit pellentesque, pharetra eros sed, consequat augue.</p>[39m",
+    [34mcreated_at[39m: "[32m2023-01-10 10:39:22[39m",
+    [34mupdated_at[39m: "[32m2023-01-10 12:38:12[39m",
+    [34mpublished_at[39m: [36mnull[39m,
+  }
+
